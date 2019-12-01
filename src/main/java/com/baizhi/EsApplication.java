@@ -12,7 +12,7 @@ public class EsApplication {
         SpringApplication.run(EsApplication.class, args);
         System.out.println();
         System.out.println("123");
-        System.out.println("dev");
+        System.out.println("hahahhahah");
     }
 
 }
