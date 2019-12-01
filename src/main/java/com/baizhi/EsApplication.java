@@ -13,6 +13,7 @@ public class EsApplication {
         System.out.println();
         System.out.println("123");
         System.out.println("hahahhahah");
+        System.out.println("kkk");
     }
 
 }
