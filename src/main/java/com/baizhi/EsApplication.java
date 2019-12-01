@@ -14,6 +14,7 @@ public class EsApplication {
         System.out.println("123");
         System.out.println("hahahhahah");
         System.out.println("bie");
+        System.out.println("kkk");
     }
 
 }
